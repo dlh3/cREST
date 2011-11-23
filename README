@@ -1,3 +1,5 @@
+Modified by Dave Hughes
+
 cREST is RESTful service client chrome extension.
 
 The source for the extension is bundled into a maven JEE
